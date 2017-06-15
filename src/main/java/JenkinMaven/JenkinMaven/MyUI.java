@@ -31,7 +31,7 @@ public class MyUI extends UI {
         final TextField name = new TextField();
         name.setCaption("Type your name here:");
 
-        Button button = new Button("Click Me");
+        Button button = new Button("Click Me from git commit");
        
         
         layout.addComponents(name, button);
